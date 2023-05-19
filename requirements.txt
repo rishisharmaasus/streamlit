@@ -4,5 +4,4 @@ Tensorflow
 opencv-python
 Streamlit
 numpy
-cv2
-libGL.so.1
+
